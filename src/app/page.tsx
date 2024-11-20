@@ -1,9 +1,9 @@
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
-import { Github, Instagram, Linkedin, Building2, Calendar, MapPin, X, ChevronDown } from "lucide-react"
+import { Github, Instagram, Linkedin, Building2, Calendar, MapPin, ChevronDown } from "lucide-react"
 import Image from "next/image"
 import Link from "next/link"
-import { SiFlutter, SiFirebase, SiNodedotjs, SiExpress, SiNextdotjs } from "react-icons/si"
+import { SiFlutter, SiFirebase, SiNodedotjs, SiNextdotjs } from "react-icons/si"
 
 export default function Component() {
   return (
